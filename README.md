@@ -19,3 +19,5 @@ is my main focus at the moment.
 
 The name of the katas is the same as used on CodeWars (without the underscore), so if you want to compare my 
 solutions to those from other users or best practices you can easily do that.
+
+The taskdescription is written as a comment below the code in the .py files.
