@@ -1,3 +1,7 @@
+#I admit this one is a little... chunky (haha) compared to other solutions,
+# but I put more focus on making the code understandable und readable instead of
+# compressing it as dense as possible, which does not mean that I could not still be improved upon.
+
 def calculate_fib(n):                                                   # first defining a simple method for calculating result of the fibonacci sequence with a given n
     sum = 0
     prev_num = 0
